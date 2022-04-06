@@ -2,7 +2,7 @@
 - 👀 I’m interested in Gaming and Anime
 - 🌱 I’m currently learning HTML, CSS and Javascript
 - 💞️ I’m looking to collaborate on nothing at the moment
-- 📫 How to reach me don't
+- 📫 How to reach me: Don't
 
 <!---
 Maripus/Maripus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
